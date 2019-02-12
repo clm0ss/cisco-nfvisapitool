@@ -2,7 +2,7 @@
 Cisco NFVIS API Tool
 
 
-Python 3 required
+Python 3.6 or later required
 
 
 # Usage
