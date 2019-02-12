@@ -141,3 +141,9 @@ Configuration & Actions requests:
                         Reboot one or more Virtual Machines
 
 ```
+
+# Example
+
+```
+nfviapitool.py 10.10.10.10 admin foo --startvm linux1 --getimageinfoall --output request-output.txt
+```
